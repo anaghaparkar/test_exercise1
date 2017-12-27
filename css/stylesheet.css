@@ -1,0 +1,22 @@
+﻿body {
+  background:url('bg.jpg') no-repeat 0 0;
+}
+h1 {
+    color: black;
+    text-align:center;
+}
+p {
+    color: black;
+    text-align:center;
+}
+.container {
+    margin-top: 265px;
+	
+}
+.container2 { 
+	text-align: center;
+	margin-top: 25px;
+}
+form {
+	text-align:center;
+}
